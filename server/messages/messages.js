@@ -1,0 +1,14 @@
+export const USER_EXISTS = 'User already exists';
+export const USER_CREATED = 'User created';
+export const USER_NOT_FOUND = 'User not found!';
+export const INVALID_CRED = 'Invalid login credentials!';
+export const LOGIN_SUCCESS = 'Login Successful';
+export const ERR_OCCURRED = 'Error occurred';
+export const INVALID_REQ = 'Invalid Request';
+export const INVALID_ACCESS_TOKEN = 'Invalid Access Token';
+export const INVALID_REF_TOKEN = 'Invalid Refresh Token';
+export const NO_TOKEN = 'No Token Provided';
+export const UPDATE_TOKEN = 'Token Updated';
+export const FRIEND_NOT_FOUND = 'Friend Not Found';
+export const FRIEND_ADDED = 'Friend Added';
+export const FRIEND_DELETE_SUCCESS = 'Friend Deleted Successfully';
